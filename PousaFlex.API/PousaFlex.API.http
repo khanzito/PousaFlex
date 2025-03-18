@@ -1,0 +1,6 @@
+@PousaFlex.API_HostAddress = http://localhost:5076
+
+GET {{PousaFlex.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
